@@ -1,0 +1,1 @@
+Per avviare l'applicazione in development, usare Parcel tramite NPM script: npm start
